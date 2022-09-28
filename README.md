@@ -1,4 +1,4 @@
-[![build CI](https://github.com/jasondavey/ci-playground/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/jasondavey/ci-playground/actions/workflows/node.js.yml)
+[![build CI](https://github.com/jasondavey/ci-playground/actions/workflows/node.js.yml/badge.svg)](https://github.com/jasondavey/ci-playground/actions/workflows/node.js.yml)
 
 # Getting Started with Create React App
 
